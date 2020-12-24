@@ -35,8 +35,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I aim to continuing testing new features this application to make it a more enjoyable user experience. 
-
 ## License
 
     Copyright [2020] [Daniel Salazar]
